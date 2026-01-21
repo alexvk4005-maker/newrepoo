@@ -22,7 +22,7 @@ jobs:
 
       # 3️⃣ Compile Java
       - name: Compile Java
-        run: javac Main.java
+        run: javac main.java
 
       # 4️⃣ Create JAR
       - name: Create JAR file
